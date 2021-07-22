@@ -9,7 +9,7 @@ if os.path.exists("local.env"):
 
 que = {}
 SESSION_NAME = "BQARnHIjF84XYfXQDy30OgYUhgV8U9BNcjgcjj_fMzS06yDK6wRqsvjzdU-udEeHG99Kkq_LIbynXFzlQ50B_nRJhLoeIELbRCERfGVtoFHLHdZbi-FY6TdjaSfR-tHAOgbi6Jk39LmXQwXSDb1MlpWArivA-D7HVJiDQ_deCANPZ5cJy_9cWaBvs4pWPYgC1OrUZTaMpovqL45Kn70ELXrfWtQBm_e4uqpunYvezXsp23ApsF5jNg7oLIbuJysIaLxUgSAOoIbPuQcR8fan8JxwBU9Q3lz1fVzhBe-BAwkKoDhCeQcPiKK0ledqM7LQDgYqyNbwSVQJC6ASCyPyfOfdbWOzLwA"
-BOT_TOKEN = "1756652877:AAHGjb4XeqypEzZgR9OlSWfYdzmTZ3tj1ns"
+BOT_TOKEN = "1730197977:AAHASrIdiaO-R07Onu4dH9EsJqzt-KMppi8"
 BOT_NAME = "@VCPlayBot"
 UPDATES_CHANNEL = "LaylaList"
 BG_IMAGE = "https://telegra.ph/file/9b13ea3ce046a1a5c8098.png"
